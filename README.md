@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Pramesh Gautam
-- 👀 I’m interested in Application of Machine learning/Deep learning/Federeted learning in Various Applications(Wireless/Space) and Optimization
+- 👀 I’m interested in Application of Machine learning/Deep learning/Federeted learning in Various Applications(Wireless/Space) and Optimization Theory
 - 🌱 I’m currently learning Application of Federated learning in Space communication
-- 💞️ I’m looking to collaborate on to do research for one year as a research assistant
 - 📫 How to reach me prameshgtm@gmail.com and https://www.linkedin.com/in/pramesh12/
 
 <!---
